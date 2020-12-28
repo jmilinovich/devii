@@ -8,3 +8,4 @@ export namespace globals {
   export const url = 'https://www.jmilinovich.com';
   export const accentColor = '#4fc2b4';
   export const googleAnalyticsId = 'UA-186185421-1';
+}
