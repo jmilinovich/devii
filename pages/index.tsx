@@ -9,7 +9,7 @@ const Home = (props: {
   return (
     <div className="content">
       <Head>
-        <title>Introducing Devii</title>
+        <title>John Milinovich's Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
