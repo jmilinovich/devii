@@ -321,8 +321,8 @@ hr {
 .post-card-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));
-  grid-row-gap: 50px;
-  grid-column-gap: 50px;
+  grid-row-gap: 15px;
+  grid-column-gap: 15px;
   width: 100%;
   padding: 15px 15px;
 }
