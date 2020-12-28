@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import { generateRSS } from '../rssUtil';
-import { Markdown } from '../components/Markdown';
-import { PostData, loadBlogPosts, loadMarkdownFile } from '../loader';
+import { PostData, loadBlogPosts } from '../loader';
 import { PostCard } from '../components/PostCard';
 
 const Home = (props: {
