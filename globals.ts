@@ -1,6 +1,6 @@
 export namespace globals {
   export const yourName = 'John Milinovich';
-  export const siteName = "John's Blog";
+  export const siteName = "Mili's Blog";
   export const siteDescription = 'Musings about startups, design and data';
   export const siteCreationDate = 'December 27, 2020 04:00:00 GMT';
   export const twitterHandle = '@jmilinovich';
