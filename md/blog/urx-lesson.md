@@ -1,7 +1,7 @@
 ---
 title: My biggest product strategy lesson learned from operating and selling URX (YC S13)
 published: true
-datePublished: 1609123095000
+datePublished: 1493683200000
 author: John Milinovich
 tags:
   - Dan Abramov
