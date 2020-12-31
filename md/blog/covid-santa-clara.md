@@ -1,7 +1,7 @@
 ---
 title: What is COVID’s impact on Santa Clara County’s Police Reports?
 published: true
-datePublished: 1609128112000
+datePublished: 1607212800000
 author: John Milinovich
 tags:
   - Dan Abramov
