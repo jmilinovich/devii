@@ -41,4 +41,4 @@ Once a company has defined their mission, vision, and product strategy they shou
 
 When team members are deliberating about a decision, they should be able to challenge each other at the level of the company strategy. If this isn't happening it means that the strategy is either not cohesive enough or not communicated clearly enough across the team.
 
-If a team is able to foster this level of clarity and communication about their decision making, they'll increase their chances at accidentally making irreversible decisions about their company strategy. If a company is able to do this successfully, their decisions will compound over time to help them prove (or disprove) their articulation of their vision in service of their mission.
+If a team is able to foster this level of clarity and communication about their decision making, they'll increase their chances at accidentally making irreversible decisions about their company strategy. If a company is able to do this successfully, their decisions will compound over time to help them prove (or disprove!) their articulation of their vision in service of their mission.
