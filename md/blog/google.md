@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/google.png
 thumbnailPhoto: /img/google.png
+desc: Thoughts from my last day working at Google
 ---
 I feel so fortunate to have spent the last 1 year, 11 months as a student at the most forward thinking company in the world. Working at Google, I was surrounded with incredibly talented people solving difficult problems in a culture of creativity, learning and personal growth.
 

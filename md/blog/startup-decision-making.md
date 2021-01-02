@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/strategy.jpg
 thumbnailPhoto: /img/strategy.jpg
+desc: A primer on how startups should use thier strategy to avoid making bad decisions.
 ---
 As a startup founder, it's mission critical to know what decisions you should make quickly, and which you should make slowly. It's common to think that at the earliest stage your approach should be to, "move fast and break things", but not only did [Facebook ditch that approach](https://mashable.com/2014/04/30/facebooks-new-mantra-move-fast-with-stability/), there's mounting evidence that it was [never a good idea in the first place](https://hbr.org/2019/12/why-move-fast-and-break-things-doesnt-work-anymore).
 

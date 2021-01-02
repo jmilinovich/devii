@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/pinecones.png
 thumbnailPhoto: /img/pinecones.png
+desc: People and persistence will always pay off. 
 ---
 > “Andrew, this is it — we’ve got the right team, and the timing’s perfect. If we don’t go for this now, we will regret it for the rest of our lives.” I could feel him thinking through the silence. “Alright dude, I’m in. Let’s talk to Nate and James and make this happen.”
 

@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/urx-lesson.png
 thumbnailPhoto: /img/urx-lesson.png
+desc: How to make sure you vision and business model are aligned
 ---
 It’s been one year since I was a startup founder/CEO. On May 2, 2016, we announced Pinterest’s acquisition of URX and began the next step in our journey. In that moment it was hard to comprehend how different this chapter would be from the one before it, and I’m grateful that I’ve gained some of this perspective over the last year.
 
