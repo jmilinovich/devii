@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/covid-santa-clara.png
 thumbnailPhoto: /img/covid-santa-clara.png
+desc: Exploratory analysis of the Santa Clara police records
 ---
 After reading about the Bay Area’s [recently renewed stay at home ordinance](https://www.sfchronicle.com/bayarea/article/Six-Bay-Area-jurisdictions-to-enact-strict-15776839.php), I wondered how the stay-at-home mandates have affected the criminal activity in my home county of Santa Clara. I came across the [Santa Clara County Police Reports Open Data Set](https://data.sccgov.org/Public-Safety/Crime-Reports/n9u6-aijz), and decided to take a look. You can follow along with my analysis in this [Colab Notebook](https://colab.research.google.com/drive/1LGOA51eIjKfnTJuSGAj3By8kQ7RHNjfU?usp=sharing).
 

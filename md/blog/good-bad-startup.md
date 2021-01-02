@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/good-bad-startup.png
 thumbnailPhoto: /img/good-bad-startup.png
+desc: What delineates a good startup idea from a good startup? 
 ---
 I had the privilege of being a guest lecturer at UCLA earlier this year to their Economics 106E: Startups class. It’s incredibly rewarding to be able to give back to my alma mater and help inspire/educate the next generation of entrepreneurs.
 

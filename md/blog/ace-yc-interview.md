@@ -8,6 +8,7 @@ tags:
 authorPhoto: /img/jm-headshot.jpeg
 bannerPhoto: /img/ace-yc-interview.png
 thumbnailPhoto: /img/ace-yc-interview.png
+desc: Tried and true lessons from a 2-time YC founder
 ---
 Spring has sprung, and the smell of fresh YC applications is in the air. It’s that special time that happens twice a year where thousands of budding entrepreneurs vie for a spot in the upcoming Y Combinator class.
 
